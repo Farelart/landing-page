@@ -205,7 +205,7 @@ export default function Page() {
           <Image
             width={800}
             height={450}
-            src="https://media.giphy.com/media/3ohzdQ1IynzclJldUQ/giphy.gif" 
+            src="/novaa.png" 
             alt="App Demo" 
             className="w-full max-w-lg rounded-lg shadow-2xl" 
           />
